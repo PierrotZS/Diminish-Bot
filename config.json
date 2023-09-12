@@ -1,4 +1,4 @@
 {
-    "Token": "OTIwMDE3ODMzOTMxNDY0NzU1.YbePYA.F4D6DW0UM4dK0gj0omnDUrQp3Jk",
-    "Database": "mongodb+srv://pierr:OP1592014@diminish.16oej.mongodb.net/Diminish?retryWrites=true&w=majority"
+    "Token": "TOKEN",
+    "Database": "DATABASE"
 }
